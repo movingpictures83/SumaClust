@@ -1,0 +1,2 @@
+Prefix plugins/SumaClust/example
+Plugin SumaClust inputfile HMP_MOCK.v35.fasta outputfile clusters.txt
